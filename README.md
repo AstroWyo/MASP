@@ -1,5 +1,5 @@
 # MASP
-The Moving and Static Photometry tool was created to do accurate and quick photometry easily used by both students and long time astronomers. This is verstion .1 IT IS VERY BARE BONES. More features will be added in the future.
+The Moving and Static Photometry tool was created to do accurate and quick photometry easily used by both students and long time astronomers. This is verstion .1 IT IS VERY BARE BONES. More features will be added in the future. This is the version for mac. 
 ## Download
 To download the software follow instructions below for your Operating System. Make sure you have python 2.7 and python 3 installed.
 ### Mac
@@ -12,25 +12,24 @@ To download the software follow instructions below for your Operating System. Ma
 4. Install [DS9](http://www.example.com/).
 
 5. Install [X-Code]().
-	a. ```xcode-select --install```
-	b. Click install and follow on screen prompts
+	1. ```xcode-select --install```
+	2. Click install and follow on screen prompts
 
-6. go to the MASP
+6. Go to the MASP
 ### Windows
 
 
 ## Use
-
-1. Mac
-First put your pictures in the MASP folder
-	a. Open up a new terminal
-	b. ```launchctl setenv XPA_METHOD local```
-	c. ```export XPA_METHOD=local```
-	d. ```cd MASP```
-	e. Asteroids
-		1. python3 main.py
-		2. follow on screen propmts in the terminal
-	f. Variable Stars
-		1.
-		2.
-		3.
+1.	Mac
+First put your pictures in the MASPpics folder
+	1.	Open up a new terminal
+	2.	```launchctl setenv XPA_METHOD local```
+	3.	```export XPA_METHOD=local```
+	4.	```cd MASP```
+	5.	Asteroids
+		1.	Put images to be processed in the MASPimages folder on your desktop
+		2.	Click on MASP.py on your desktop
+	6.	Variable Stars
+		1.	
+		2.	
+		3.	
