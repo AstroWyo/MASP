@@ -15,8 +15,7 @@ To download the software follow instructions below for your Operating System. Ma
 	1. ```xcode-select --install```
 	2. Click install and follow on screen prompts
 
-6. Go to the MASP
-### Windows
+6. Go to the MASP folder and click on setup.py
 
 
 ## Use
@@ -29,7 +28,11 @@ First put your pictures in the MASPpics folder
 	5.	Asteroids
 		1.	Put images to be processed in the MASPimages folder on your desktop
 		2.	Click on MASP.py on your desktop
+		3.	Follow on screen prompts and enter the correct information for your asteroid.
+		4.	The information for reference stars and asteroids will be outputted into the MASP folder.
 	6.	Variable Stars
-		1.	
-		2.	
-		3.	
+		1.	Put images to be processed in the MASPimages folder on your desktop
+		2.	Click on MASP.py on your desktop
+		3.	Follow on screen prompts and enter the correct information for your star.
+		4.	The information for reference stars and asteroids will be outputted into the MASP folder.
+# Congratulations
