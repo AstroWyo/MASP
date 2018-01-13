@@ -27,10 +27,10 @@ First put your pictures in the MASP folder
 	b. ```launchctl setenv XPA_METHOD local```
 	c. ```export XPA_METHOD=local```
 	d. ```cd MASP```
-	e. ### Asteroids
+	e. Asteroids
 		1. python3 main.py
 		2. follow on screen propmts in the terminal
-	f. ### Variable Stars
+	f. Variable Stars
 		1.
 		2.
 		3.
