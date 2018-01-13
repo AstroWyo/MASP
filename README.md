@@ -9,9 +9,9 @@ To download the software follow instructions below for your Operating System. Ma
 
 3. Make a file in your Desktop called MASP this is where you will put your pictures for processing.
 
-4. Install [DS9](http://www.example.com/).
+4. Install [DS9](http://ds9.si.edu/site/Home.html).
 
-5. Install [X-Code]().
+5. Install [X-Code](https://developer.apple.com/xcode/downloads/).
 	1. ```xcode-select --install```
 	2. Click install and follow on screen prompts
 
