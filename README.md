@@ -35,4 +35,4 @@ First put your pictures in the MASPpics folder
 		2.	Click on MASP.py on your desktop
 		3.	Follow on screen prompts and enter the correct information for your star.
 		4.	The information for reference stars and asteroids will be outputted into the MASP folder.
-# Congratulations
+########################################### Congratulations
