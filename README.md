@@ -1,5 +1,7 @@
 # MASP
-The Moving and Static Photometry tool was created to do accurate and quick photometry easily used by both students and long time astronomers. This is verstion 0.1 IT IS VERY BARE BONES. More features will be added in the future. This is the version for mac. 
+
+The Moving and Static Photometry tool was created to do accurate and quick photometry easily used by both students and long time astronomers. This is verstion 1 IT IS VERY BARE BONES. More features will be added in the future. This is the version for mac. 
+
 ## Download
 To download the software follow instructions below for your Operating System. Make sure you have python 2.7 and python 3 installed.
 ### Mac
@@ -35,4 +37,6 @@ First put your pictures in the MASPpics folder
 		2.	Click on MASP.py on your desktop
 		3.	Follow on screen prompts and enter the correct information for your star.
 		4.	The information for reference stars and asteroids will be outputted into the MASP folder.
+
 ###### Congratulations
+
