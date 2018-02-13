@@ -17,7 +17,7 @@ To download the software follow instructions below for your Operating System. Ma
 	1. ```xcode-select --install```
 	2. Click install and follow on screen prompts
 
-6. Go to the MASP folder and click on setup.py
+6. Go to the MASP folder and right-click on setup.py and open with python launcher 3.
 
 
 ## Use
